@@ -1,0 +1,6 @@
+host:
+    api_nba: 'https://free-nba.p.rapidapi.com/'
+
+path:
+    players: 'players'
+    player: 'players/{{idJogador}}'
